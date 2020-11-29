@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "543266049756",
+    "firebase_url": "https://brewing-of-crewing.firebaseio.com",
+    "project_id": "brewing-of-crewing",
+    "storage_bucket": "brewing-of-crewing.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543266049756:android:a324d5dc2e551d7c406e19",
+        "android_client_info": {
+          "package_name": "com.rasengans.brew_crew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "543266049756-f47hmunv3jrn0tlo6f48i8hf206paq3f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOv6LK1C--5qijmBuk1G_l64dkCc_G7Cs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "543266049756-f47hmunv3jrn0tlo6f48i8hf206paq3f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
